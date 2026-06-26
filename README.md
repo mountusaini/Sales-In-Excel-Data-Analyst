@@ -139,8 +139,8 @@ Then display them using:
 
 **Mountu Saini**
 
-- GitHub: *(Add your GitHub Profile)*
-- LinkedIn: *(Add your LinkedIn Profile)*
+- GitHub: *www.linkedin.com/in/mountu-saini-1906*
+- LinkedIn: *https://github.com/mountu*
 
 ---
 
